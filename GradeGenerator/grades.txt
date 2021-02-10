@@ -1,0 +1,37 @@
+Name		Grade
+----------------------------
+Tesfa	B-
+Tanah	A-
+Christopher	F-
+Nathan D.	B+
+Anzo	A
+Priya	C-
+Alex	A-
+Melat	D
+Carson	B-
+Justin	D-
+Se Ho	F+
+Claire	F+
+Clynthia	B
+Adeena	C
+Cassidy	D
+Chuck	A+
+Eshaan	F+
+Ben	A-
+Maria	D+
+Sam	D+
+Hannah	D+
+Ebenezer	F+
+Alan	F-
+Nathan P.	B
+Anna	A+
+Chloe	D-
+Hina	D-
+Guy	D
+Katiana	A+
+Abba	C+
+Aidan	F+
+Winnie	D+
+David	B
+Julie	B+
+Emily	F+
